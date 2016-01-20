@@ -13,9 +13,9 @@ email: arcangelilucia@gmail.com
 description: "My projects experience BLOG"
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "http://lucia1987.github.io"
-twitter_username: lucia arcangeli
+twitter_username: LuciaArcangeli
 github_username:  Lucia1987
 
 # Build settings

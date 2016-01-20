@@ -6,7 +6,7 @@ date:   2016-01-14 03:58:15 +0100
 ---
 If you want you can!
 
-![alt text]({{site.url}}/image/luli.jpg")
+![alt text]({{site.url}}/image/luli.jpg)
 
 Hello everybody, I introduce myself:
 
@@ -63,6 +63,6 @@ To be continued...
 
 
 
-![alt text](image/20160112_161111.jpg")
+![alt text]({{site.url}}/image/20160112_161111.jpg)
 
 
