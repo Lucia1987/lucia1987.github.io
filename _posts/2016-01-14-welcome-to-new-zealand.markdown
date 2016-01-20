@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to new zealand"
+title:  "Welcome to new zealand -1st week-"
 date:   2016-01-14 03:58:15 +0100
 
 ---
