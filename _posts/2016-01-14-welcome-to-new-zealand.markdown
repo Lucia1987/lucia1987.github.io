@@ -44,7 +44,7 @@ Secondly, I’m in New Zealand, through an invitation from Massey University FAB
 
 Step2 in my own region from 3 to 6 months again (Rome Italy)
 
-I have another three months in Italy for a 3rd part of this project in a Prototype laboratory in Rome FAB LAB SPQWoRk (thank you Tommaso)
+I have another three months in Italy for a 3rd part of this project in a Prototype laboratory in Rome FAB LAB SPQRWork (thank you Tommaso)
 My proposal wants to analyze which is the way to work abroad, in the field prototyping, and in the other side how it works in Italy. 
 
 Project experience who lives across the world!
