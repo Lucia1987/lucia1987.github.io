@@ -1,9 +1,9 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "Welcome to new zealand!"
+subtitle: "2nd week"
+author: "Lucia Arcangeli"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "image/IMG_1202.jpg"
 date:   2015-04-20 12:12:12
 ---
 
