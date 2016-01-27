@@ -8,6 +8,15 @@ If you want you can!
 
 ![alt text]({{site.url}}/image/luli.jpg)
 
+The contribution to put my passion to engage people.
+My goal and hope is to communicate the right message and convey the right emotion.
+
+The knowledge through the experience in my opinion  is the key to personal growth.
+User experience is an example of the a emerging practice in a constantly evolving world. 
+ 
+Whether you’re a curious it’s important stay up-to-date on the latest conversations and ideas happening in the “Fab Lab Wgnt”. 
+So how do you stay updated? Here’s a clue: you’re doing it right now. Reading blogs is a quick and easy way to remain current. Below you’ll find some of my experience in New Zealand;
+
 Hello everybody, I introduce myself:
 
 My name is Lucia Arcangeli, I’m 28 years old, I was born in Cervara di Roma, the highest  municipality of  “Valle dell’Aniene” far 70Km from Rome Italy.
