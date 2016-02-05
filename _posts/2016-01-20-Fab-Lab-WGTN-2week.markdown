@@ -1,9 +1,9 @@
 ---
-title:  "Welcome to new zealand!"
+title:  "Make!"
 subtitle: "2nd week"
 author: "Lucia Arcangeli"
 avatar: "img/authors/luli-2-corti.jpg"
-image: "image/IMG_1202.jpg"
+image: "image/testacinese.jpg"
 date:   2016-01-20 12:12:12
 ---
 

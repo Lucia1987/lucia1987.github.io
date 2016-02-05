@@ -3,7 +3,7 @@ title:  "Welcome to New Zealand"
 subtitle: "1st week"
 author: "Lucia Arcangeli"
 avatar: "img/authors/luli-2-corti.jpg"
-image: "image/aereoporto wendy .jpg"
+image: "image/aereoporto.jpg"
 date:   2016-01-14 15:58:12
 ---
 

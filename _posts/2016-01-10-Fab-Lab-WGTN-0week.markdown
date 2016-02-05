@@ -3,7 +3,7 @@ title:    "Hello everybody"
 subtitle:   "I would like introduce myself"
 author: "Lucia Arcangeli"
 avatar: "img/authors/luli-2-corti.jpg"
-image: "image/luli.jpg"
+image: "image/lulikate.jpg"
 date:   2016-01-26 12:12:12
 ---
 
