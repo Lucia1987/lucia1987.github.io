@@ -25,21 +25,21 @@ date:   2016-01-20 12:12:12
 ## The knowledge through the experience in my opinion  is the key to personal growth.
 
 
-# Experience makers.
+### Experience makers.
 
 
-# Blog on-line.
+### Blog on-line.
 
 1st week
 
 2nd week
 
-# Laser cutter.
+### Laser cutter.
 
 First - cutter big
 
 second- cutter small
 
-# Creation t-shirt. 
+### Creation t-shirt. 
 
 Learning about pattern making.

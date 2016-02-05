@@ -32,7 +32,7 @@ Inclusive: economy to promote occupation and social cohesion
 The aim is to upgrade different skills of recipients and create real conditions for the execution of a “job” experience .
 The project will be in two steps:
 
-Project's name "I’ll return soon" (Liberal interpretation)
+Project's name "TORNO SUBITO" "I’ll return soon" (Liberal interpretation)
 
 Step1 outside of Italy from 3 to 6 months (Sydney Australia & Wellington New Zealand)
 
@@ -59,6 +59,3 @@ I need to improve my experience not only for my study, but in particular “to e
 
 To be continued...
 
-
-
-![alt text]({{site.url}}/image/20160112_161111.jpg)

@@ -1,13 +1,13 @@
 ---
-title:  "Hello everybody"
-subtitle: "I would like introduce myself"
+title:    "Hello everybody"
+subtitle:   "I would like introduce myself"
 author: "Lucia Arcangeli"
 avatar: "img/authors/luli-2-corti.jpg"
 image: "image/luli.jpg"
 date:   2016-01-26 12:12:12
 ---
 
-### Hello
+#### Hello
 
 My name is Lucia Arcangeli, I’m 28 years old, I was born in Cervara di Roma, the highest  municipality of  “Valle dell’Aniene” far 70Km from Rome Italy.
 I grew up in a unique  environment, my village full of creativity; of art, paintings, writings, poetry and sculpture.
@@ -18,7 +18,7 @@ I focused on Prototyping concept “model/prototype”, above all in the Theoret
 I choose this, attracted to new techniques of digital print having relevancy in architecture and design field also.
 It’s  for these reasons that today I focus on the FABLAB’s  reality, to discover and learn all the aspects of prototyping.
 
-### If you want you can!
+#### If you want you can!
 
 The contribution to put my passion to engage people.
 My goal and hope is to communicate the right message and convey the right emotion.
