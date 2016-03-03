@@ -2,12 +2,12 @@
 title:    "Hello everybody"
 subtitle:   "I would like introduce myself"
 author: "Lucia Arcangeli"
-avatar: "img/authors/luli-2-corti.jpg"
+avatar: "image/authors/miniluli.jpg"
 image: "image/lulikate.jpg"
-date:   2016-01-26 12:12:12
+date:   2016-01-10 12:12:12
 ---
 
-#### Hello
+Hello everybody  
 
 My name is Lucia Arcangeli, I’m 28 years old, I was born in Cervara di Roma, the highest  municipality of  “Valle dell’Aniene” far 70Km from Rome Italy.
 I grew up in a unique  environment, my village full of creativity; of art, paintings, writings, poetry and sculpture.
@@ -26,3 +26,7 @@ The knowledge through the experience in my opinion  is the key to personal growt
 User experience is an example of the a emerging practice in a constantly evolving world. 
 Whether you’re a curious it’s important stay up-to-date on the latest conversations and ideas happening in the “Fab Lab Wgnt”. 
 So how do you stay updated? Here’s a clue: you’re doing it right now. Reading blogs is a quick and easy way to remain current. Below you’ll find some of my experience in New Zealand;
+
+
+{% include image.html url="image/laurea.jpg" description="March 2015 Graduation day" %}
+

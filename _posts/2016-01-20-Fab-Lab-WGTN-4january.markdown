@@ -1,25 +1,25 @@
 ---
-title:  "Make!"
-subtitle: "2nd week"
+title:  "1st month"
+subtitle: "January"
 author: "Lucia Arcangeli"
 avatar: "img/authors/luli-2-corti.jpg"
 image: "image/testacinese.jpg"
-date:   2016-01-20 12:12:12
+date:   2016-01-28 12:12:12
 ---
 
 # You are the key to opening the door of the world. 
 
-## This week I was hit by a huge quantity of new information.
+## My firts week was hit by a huge quantity of new information.
 
 ### Experience makers:
 
-1. Blog online
+- Blog online
 
-2. Creation of the first items through the "laser cutter"
+- Creation of the first items through the "laser cutter"
 
-3. Creation of my first t-shirt
+- Creation of my first t-shirt
 
-4. It keeps my development in the English language
+- It keeps my development in the English language
    New words and concepts in English (every day)
 
 ## The knowledge through the experience in my opinion  is the key to personal growth.
