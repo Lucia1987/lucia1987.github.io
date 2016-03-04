@@ -2,20 +2,29 @@
 title:  "1st month"
 subtitle: "January"
 author: "Lucia Arcangeli"
-avatar: "img/authors/luli-2-corti.jpg"
+avatar: "image/authors/miniluli.jpg"
 image: "image/testacinese.jpg"
 date:   2016-01-28 12:12:12
 ---
 
-# You are the key to opening the door of the world. 
+# You are the key to opening the door of the world.
 
-## My firts week was hit by a huge quantity of new information.
+Did you write the instructions down so you can do it again?
+
 
 ### Experience makers:
 
 - Blog online
+  opportunity to test my learning by remaking my website
+  english
+  code
+  composion Framework
 
 - Creation of the first items through the "laser cutter"
+
+- make a sculputure the Chinese lion's head for scannering
+
+{% include image.html url="image/cinese2.jpg" description="Chinese lion's head" %}
 
 - Creation of my first t-shirt
 
@@ -24,6 +33,7 @@ date:   2016-01-28 12:12:12
 
 ## The knowledge through the experience in my opinion  is the key to personal growth.
 
+## My firts week was hit by a huge quantity of new information.
 
 ### Experience makers.
 

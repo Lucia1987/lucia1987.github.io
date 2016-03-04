@@ -2,7 +2,7 @@
 title:  "Welcome to New Zealand"
 subtitle: "Project"
 author: "Lucia Arcangeli"
-avatar: "img/authors/luli-2-corti.jpg"
+avatar: "image/authors/miniluli.jpg"
 image: "image/aereoporto.jpg"
 date:   2016-01-14 15:58:12
 ---
@@ -21,8 +21,12 @@ The target of initiative is:
 
 - Inclusive: economy to promote occupation and social cohesion
 
+Individuals eligible to present a proposal
+
+Individuals eligible to apply: university students, university graduates, graduates of Technical High Schools, Italian citizens or foreigners who have been resident in Lazio for at least 6 months, aged between 18-35 years old. 
 
 Torno Subito  Estero – TSE : as outlined in Phase 1 outside the region, outside of Italy, for a period of 3 to 6 months, as well as an experience of Phase 2 in Lazio, through internships and/or research projects, for a period ranging between 3 to 6 months.
+
 
 The project will be in two steps:
 
@@ -57,5 +61,5 @@ I need to improve my experience not only for my study, but in particular “to e
 
 To be continued...
 
-{% include image.html url="image/sydneystart.jpg" description="I'm coming ! New Zeland." %}
+{% include image.html url="image/arrivata.jpg" description="I'm arrived fab lab wgtn!" %}
 

@@ -18,6 +18,8 @@ I focused on Prototyping concept “model/prototype”, above all in the Theoret
 I choose this, attracted to new techniques of digital print having relevancy in architecture and design field also.
 It’s  for these reasons that today I focus on the FABLAB’s  reality, to discover and learn all the aspects of prototyping.
 
+{% include image.html url="image/laurea.JPG" description="March 2015 Graduation day" %}
+
 #### If you want you can!
 
 The contribution to put my passion to engage people.
@@ -28,5 +30,8 @@ Whether you’re a curious it’s important stay up-to-date on the latest conver
 So how do you stay updated? Here’s a clue: you’re doing it right now. Reading blogs is a quick and easy way to remain current. Below you’ll find some of my experience in New Zealand;
 
 
-{% include image.html url="image/laurea.jpg" description="March 2015 Graduation day" %}
+To be continued...
+
+{% include image.html url="image/sydneystart.jpg" description="I'm coming ! New Zeland." %}
+
 
