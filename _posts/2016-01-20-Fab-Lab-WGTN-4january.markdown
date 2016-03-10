@@ -29,6 +29,7 @@ Did you write the instructions down so you can do it again?
 - Creation of my first t-shirt
 
 - It keeps my development in the English language
+
    New words and concepts in English (every day)
 
 ## The knowledge through the experience in my opinion  is the key to personal growth.
