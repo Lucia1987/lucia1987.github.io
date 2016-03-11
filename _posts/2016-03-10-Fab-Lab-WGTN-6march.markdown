@@ -18,6 +18,10 @@ cables
 <p><a href="https://vimeo.com/158287252">2016 Fab Academy Fabbercise</a> from <a href="https://vimeo.com/user23516913">FabLabWellington</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+video 
+
+
+
 {% include image.html url="image/lamp.jpg" description="Project Lamp Spiral." %}
 
 

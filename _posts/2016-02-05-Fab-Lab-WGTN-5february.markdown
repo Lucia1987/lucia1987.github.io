@@ -23,4 +23,4 @@ make
 
 generation things
 
-{% include image.html url="image/lamp.jpg" description="Project Lamp Spiral." %}
+{% include image.html url="image/lamp.jpg" description="Project Lamp Spiral" %}

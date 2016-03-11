@@ -37,14 +37,34 @@ The project will be in two steps:
 Firstly, I attended an English course in Sydney in order to improve my English, so that I can work in any part of the word. It’s just for a short time because I have only six months out of Italy to improve my English.
 
 Secondly, I’m in New Zealand, through an invitation from Massey University FAB LAB WGTN (thank you Wendy)
+Fab Lab Wgtn is a digital fabrication laboratory equipped with accessible computer-controlled tools able to make almost anything. 
+
+Think of Fab Lab as an invention playground, an incubator of design ideas, a maker of possibilities, a creative ecosystem, and a place that gives anyone and everyone the technology to power their ideas.
+Part of a growing global network of Fab Labs affiliated to MIT (Massachusetts Institute of Technology), Fab Lab Wgtn was Australasia’s first and sits within the School of Design at Massey University Wellington.
+
+http://www.fablabwgtn.co.nz/
 
 ### Step2
 
 - in my own region from 3 to 6 months again (Rome Italy)
 
 I have another three months in Italy for a 3rd part of this project in a Prototype laboratory in Rome FAB LAB SPQwoRk (thank you Tommaso)
-My proposal wants to analyze which is the way to work abroad, in the field prototyping, and in the other side how it works in Italy. 
 
+Open access to a wide range of tools, equipment, resources and work space. 
+The FabLab SPQwoRk is aimed at young people and adults, but also children and young people of school age. 
+Giving space to ideas that do not fit in most home workshops, access to a generational exchange of knowledge, focusing on the strong tradition of quality craftsmanship that has always characterized Italy, integrating it with the possibilities offered by digital fabrication. 
+Fablab SPQwoRk has the intent to collect and cultivate highly creative working groups for the development of collaborative synergies between producers, thinkers , students, academics and entrepreneurs who share ideas , and want to create new products , new businesses to work, acquiring new abilities. An initiative of this kind would have an immeasurable impact on the community . 
+Fablab SPQwoRk is dedicated to : 
+( fabber ) A place where people meet to discuss a possible project , then go directly to the development of the same ... 
+(artisans and start-up) a place where groped to start your own business becomes simplified to the bone , with no initial investment, available over the machinery for the job, a consulting service and risk analysis / feasibility of the business. 
+( makers) a place where you can do all that at home you can no longer do 
+(students) to form a place to work that matters 
+( children) a place to develop the creativity of their children as a playground of the work 
+( students ) a place to train and mix their skills
+
+http://spqwork.com/
+
+My proposal wants to analyze which is the way to work abroad, in the field prototyping, and in the other side how it works in Italy.
 {% include image.html url="image/tornosubito.jpg" description="http://www.tornosubito.laziodisu.it/" %}
 
 ### Project experience who lives across the world!
