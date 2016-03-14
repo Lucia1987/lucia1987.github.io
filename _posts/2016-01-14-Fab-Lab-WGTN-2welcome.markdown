@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to New Zealand"
-subtitle: "Project"
+subtitle: "Project Torno Subito"
 author: "Lucia Arcangeli"
 avatar: "image/authors/miniluli.jpg"
 image: "image/aereoporto.jpg"
@@ -8,18 +8,20 @@ date:   2016-01-14 15:58:12
 ---
 
 
-Italian Project "Torno Subito"  "I’ll return soon"
+{% include image.html url="image/torno.jpg" description="" %}
+
+My Project What was , what is, what will be!
 
 I am participating in a “regionally based EU project” this initiative is to utilise the resources provided by the European Social Fund (ESF), 2014-2020, for the strengthening of human capital. 
 The aim is to upgrade different skills of recipients and create real conditions for the execution of a “job” experience .That allows me to be in relation with two different realities, one abroad, in Fab Lab Wgtn, and the second here in Italy, in my own region Lazio inside the "Fab Lab SPQwoRk" of Rome.
 
 The target of initiative is:
 
-- Intelligent: acknowledge and innovation
+Intelligent: acknowledge and innovation
 
-- Sustainable: economy more efficient, more green and competitive
+Sustainable: economy more efficient, more green and competitive
 
-- Inclusive: economy to promote occupation and social cohesion
+Inclusive: economy to promote occupation and social cohesion
 
 Individuals eligible to present a proposal
 
@@ -79,7 +81,9 @@ I decided to do that, because I graduated in March 2015 in Architecture and I th
 
 I need to improve my experience not only for my study, but in particular “to enhance my skills in this field of architecture” to help me make a final decision about my future...
 
+  {% include image.html url="image/gif/volo.gif" description="Fly... so I came to the Fab Lab WGTN" %}
+
 To be continued...
 
-{% include image.html url="image/arrivata.jpg" description="I'm arrived fab lab wgtn!" %}
+
 

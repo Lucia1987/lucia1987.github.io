@@ -7,20 +7,21 @@ image: "image/lamp2.jpg"
 date:   2016-02-05 12:12:12
 ---
 
-### object and effect - experimental research -
+February Workflow
 
-the korù 
+Step by Step
 
-fabduino make
+- 2nd Week Open Design & Digital Fabrication
 
-{% include image.html url="image/guardoilmondo.jpg" description="Fabduino" %}
+- 
 
-lamp development
+Object's effect & Object Affects - personal experimental research -
 
-### team project.
 
-make
 
-generation things
+# Week 2
+
+
+
 
 {% include image.html url="image/lamp.jpg" description="Project Lamp Spiral" %}

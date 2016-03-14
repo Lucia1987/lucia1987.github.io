@@ -3,11 +3,11 @@ title:  "Progetto Torno Subito"
 subtitle: "Made in Italy"
 author: "Lucia Arcangeli"
 avatar: "image/authors/miniluli.jpg"
-image: "image/tornocopertina.jpg"
+image: "image/tornosubito2.jpg"
 date:   2016-02-11 12:12:12
 ---
 
-Watch and learn through actions, if you not knowing the English!
+
 
 Il mio progetto era cosi articolato:
 

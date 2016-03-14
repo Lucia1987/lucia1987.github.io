@@ -7,9 +7,13 @@ image: "image/spiraleconchiglia.jpg"
 date:   2016-02-11 12:12:12
 ---
 
+# Did you write the instructions down so you can do it again?
+
 La vista di ciò che è estremamente bello, nella natura o nell'arte, richiama il ricordo dell'oggetto amato con la rapidità del lampo.
 
 Henry Beyle Stendhal, Dell'amore, Libro I, cap. XIV, estratto
+
+# You are the key to opening the door of the world.
 
 The Koru
 
@@ -64,3 +68,6 @@ L'idea del movimento perpetuo è e sarà la mia chiave di progettazione.
 "...La parola collega la traccia visibile alla cosa invisibile, alla cosa assente, alla cosa desiderata o temuta come un fragile ponte di fortuna gettato nel vuoto. Per questo il giusto uso del linguaggio per me è quello che permette di avvicinarsi alle cose (presenti o assenti) con discrezione e attenzione e cautela, col rispetto di ciò che le cose (presenti o assenti) comunicano senza parole".
 
 Italo Calvino da Lezioni americane.
+
+
+
