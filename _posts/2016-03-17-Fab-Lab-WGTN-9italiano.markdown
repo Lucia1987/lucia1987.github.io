@@ -13,7 +13,7 @@ La vista di ciò che è estremamente bello, nella natura o nell'arte, richiama i
 
 Henry Beyle Stendhal, Dell'amore, Libro I, cap. XIV, estratto
 
-# You are the key to opening the door of the world.
+# You are the key to opening the door of the world
 
 The Koru
 

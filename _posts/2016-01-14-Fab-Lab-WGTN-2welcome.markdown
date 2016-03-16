@@ -44,7 +44,7 @@ Fab Lab Wgtn is a digital fabrication laboratory equipped with accessible comput
 Think of Fab Lab as an invention playground, an incubator of design ideas, a maker of possibilities, a creative ecosystem, and a place that gives anyone and everyone the technology to power their ideas.
 Part of a growing global network of Fab Labs affiliated to MIT (Massachusetts Institute of Technology), Fab Lab Wgtn was Australasia’s first and sits within the School of Design at Massey University Wellington.
 
-http://www.fablabwgtn.co.nz/
+[http://www.fablabwgtn.co.nz/](http://www.fablabwgtn.co.nz/)
 
 ### Step2
 
@@ -64,7 +64,7 @@ Fablab SPQwoRk is dedicated to :
 ( children) a place to develop the creativity of their children as a playground of the work 
 ( students ) a place to train and mix their skills
 
-http://spqwork.com/
+[http://spqwork.com/](http://spqwork.com/)
 
 My proposal wants to analyze which is the way to work abroad, in the field prototyping, and in the other side how it works in Italy.
 {% include image.html url="image/tornosubito.jpg" description="http://www.tornosubito.laziodisu.it/" %}

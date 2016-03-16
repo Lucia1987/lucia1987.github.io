@@ -17,23 +17,7 @@ Obiettivi del progetto:
  
 Le Fab Lab, di WELLINGTON e ROMA, sono collegate tra loro in un progetto molto grande chiamato Fab Lab Academy, che coinvolge molte altre città estere, per ampliare, attraverso diversi convegni, progetti e laboratori didattici, il bagaglio culturale mondiale dei laboratori digitali e non solo. L’importanza della Fab Academy risiede soprattutto in due elementi: è tuttora il corso più completo sulla fabbricazione digitale, e ha costituito una ottima occasione di collaborazione tra i FabLab partecipanti, creando un contesto dove sviluppare e condividere pratiche comuni di making (fabbricazione). Avendo iniziato un percorso universitario che studia e comprende l’ avanguardia delle tecnologie e metodi per la PROTOTIPAZIONE e progettazione, la curiosità di approfondire tali tematiche mi porta oggi a sperare di lavorare e collaborare, in diverse realtà di Laboratorio per conoscere sempre di più l’argomento e per mettere a disposizione le conoscenze acquisite in questa possibile esperienza BILATERALE, anche in altre Fab Lab.
 
-Antipodi
 
-Per poter raccontare questa avventura avrò bisogno di tanti esempi e immagini, perchè di esperienze cosi piene, ce ne sono poche nella vita.
-La mia avventura è iniziata il 26 ottobre 2015 quando ho preso il volo direzione Australia, Sydney. Li ad aspettarmi non ci sarebbe stata solo la mia prima parte del progetto, riguardante il miglioramento della lingua Inglese nella Kaplan International School  ma, in particolare, tutte le persone e le esperienze che si sono susseguite in un vortice infinito di eventi, luoghi, immagini..
-
-Mettersi alla prova ogni giorno, migliorarsi, ampliare il proprio bagaglio culturale per completare il proprio io.
-
-10 settimane per ampliare il mio inglese a Sydney, come approccio iniziale, all’avventura che mi avrebbe aspettato in Nuova Zelanda  a Wellington.
-
-Ed è proprio qui che volevo arrivare.
-
-11 gennaio 2016 volo Sydney-Wellington
-Ad aspettarmi all’aereoporto Wendy e Craig, le due figure professionali che mi avrebbero accompagnata alla scoperta del mondo della prototipazione nella realtà delle Fablab.
-
-Il primo mese, gennaio, è stato quasi completamente dedicato al  “learning by doing”, cioè al mio apprendimento in maniera sistematica dell’inglese e del mondo makers , doppio lavoro quindi, per la prima volta mi sono trovata ad imparare come si utilizzano macchinari e programmi attraverso una lingua nuova.
-
-Inizialmente non posso nascondere la difficoltà nell’apprendere con una lingua che non fosse l’italiano, ma, attraverso non solo le parole, ma anche i gesti collegati ad esse, piano piano ho iniziato ad apprendere le prime nozioni importanti riguardanti la generazione digitale attraverso "code".
 
 
 Would that it TWER so simple!

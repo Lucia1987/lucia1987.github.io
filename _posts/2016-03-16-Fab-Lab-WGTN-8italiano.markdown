@@ -21,6 +21,34 @@ Ed è proprio qui che volevo arrivare.
 11 gennaio 2016 volo Sydney-Wellington
 Ad aspettarmi all’aereoporto Wendy e Craig, le due figure professionali che mi avrebbero accompagnata alla scoperta del mondo della prototipazione nella realtà delle Fablab.
 
-Il primo mese, gennaio, è stato quasi completamente dedicato al  “learning by doing”, cioè al mio apprendimento in maniera sistematica dell’inglese e del mondo makers , doppio lavoro quindi, per la prima volta mi sono trovata ad imparare come si utilizzano macchinari e programmi attraverso una lingua nuova.
+Il primo mese, gennaio, è stato quasi completamente dedicato all'approccio learning by doing, "Experiential learning is the process of learning through experience, and is more specifically defined as learning through reflection on doing".
+Quindi processo di apprendimento attraverso l'esperienza, più precisamente definita come l'apprendimento attraverso la riflessione sul da fare.
 
-Inizialmente non posso nascondere la difficoltà nell’apprendere con una lingua che non fosse l’italiano, ma, attraverso non solo le parole, ma anche i gesti collegati ad esse, piano piano ho iniziato ad apprendere le prime nozioni importanti riguardanti la generazione digitale attraverso "code".
+I macchinari e temi analizzati ne campo della Prototipazione sono stati in particolare:
+
+Stampa 3D
+Laser Cut
+Produzione di circuiti
+Incisione e taglio laser
+Fresatura di precisione
+Taglio vinile
+Componenti Programmazione Elettronica
+Scanning
+
+Inizialmente non posso nascondere la difficoltà nell’apprendere e comunicare attraverso due nuove lingue.
+Non solo lezioni in inglese ma anche e soprattutto la lingua dei codici, CODICE inteso come l'insieme di regole che consentono la comunicazione di informazioni tra 
+due enti,in questo caso, uomo macchina, macchina uomo. 
+
+Il mio percorso è stato molto articolato, in ordine ho dovuto prima comprendere in che modo potessi lavorare non conoscendo bene la lingua inglese, dopo, mi sono potuta dedicare all’elaborazione  dei dati  acquisiti per poter dar vita alle mie idee attraverso queste  nuovissime nozioni.
+
+Durante le 4 settimane di studio “open design”, seguendo step by step, ho iniziato anch’io a lavorare su un progetto personale, riguardante, non solo la progettazione di una lampada,  ma anche e soprattutto, lo studio del concetto di luce e la percezione di essa.
+
+Per questo motivo, settimana dopo settimana (listening, speaking, reading and writing),
+ho iniziato a poter sperimentare la laser cut, e successivamente anche  stampa 3d.
+
+
+Nel sommario (Summary windows 3) presente in questo blog, sono presenti le esperienze e le tecniche apprese proprio in questi mesi, attraverso le immagini sarà più semplice entrare in questa avventura.
+
+
+{% include image.html url="image/gif/experiment.gif" description="Prototipando" %}
+

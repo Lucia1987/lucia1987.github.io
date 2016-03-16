@@ -7,38 +7,38 @@ image: "image/testacinese.jpg"
 date:   2016-01-28 12:12:12
 ---
 
-January Workflow
+January Workflow: My firts month was hit by a huge quantity of new information.
 
-### My firts month was hit by a huge quantity of new information.
 
-### It keeps my development in English 
+
+### A. It keeps my development in English 
 New words and concepts in English (every day)
     
 Watch and learn through actions, if you not knowing the English!
 
-### Blog online Opportunity to test my learning by remaking my website
+### B. Blog online Opportunity to test my learning by remaking my website
 Improve English (writing , learning, listening , reading)
 
 Composion Framework and Workflow
     
-Understanding Code on Your Blog
+Understanding Code on Your Blog  (Right click mouse to see other sites code!)
     
 You don’t need to be a coding genius to rock your blog, but you should have a basic understanding of the terminology and a few tags up your sleeve to take your blog :)
-    
 
-### Creation of the first items through the "laser cutter"
+### C. Creation of the first items through the "laser cutter"
 
-### Make a sculputure of Chinese lion's head for scanning
+### D. Make a sculputure of Chinese lion's head for scanning
 My goal was help my colleague.
 I worked clay and made a Chinese Lion's head. Then we scanned it to use the 3D model file.
 In particular we needed the file to Design a head for Create A big real Chinese lion for a ceremony .
 
-### Creation of my first t-shirt
+### E. Creation of my first t-shirt
 Learning about pattern making
 
-### Team project:  Open Design & Digital Fabrication 
+### F. Team project:  Open Design & Digital Fabrication 
+Observe students working on a project to understand how to develop an idea , in this case the issue is the Light , The lamp 
 
-## About Team project 1st Week:  Open Design & Digital Fabrication
+### F.1. About Team project 1st Week:  Open Design & Digital Fabrication
 
 Aim: In this studio paper students will utilise open design methodologies and digital fabrication tools to produce an open design project. They will explore the possibilities and articulate issues related to an open design phylosophy whilst developing skills in making and digital fabrication.
 
@@ -46,15 +46,19 @@ In groups of three, you will investigate the idea of open design and apply what 
 
 The project will be tackled in groups. Fab lab wgtn will provide a short list of open design concept for your group to select from. Your group is required to develop an existing open concept. The Fab Lab will short- list a range of concepts from which you can choose. The Fab Lab has a wide variety of resources to utilise, and we would like to see you explore a number of these in detail. Pick a project that has potential to use 2-3 separate processes to complete it.
 
-## Week 1 was about:
+### 1st Week Open Design & Digital Fabrication was about:
 
 Introduction to the Paper, introduction the brief, introduction to Fab Lab WGTN.
+
 Costruction project groups - Team Parsnip, Team Wawy, Team Illumination
+
 Research and studio, development idea.
+
 Introduction of open design Whakapapa
+
 By group research presentations
 
-### Manifesto
+### F.1.1. Manifesto
 
 ### Team Parsnip
 
@@ -69,5 +73,10 @@ This way of converging differing interests and coordinating the outcome will be 
 ### Team Illumination 
 
 overview: In this studio paper students will utilise open design methodologies and digital fabrication tools to produce an open design project. They will explore the possibilities and articulate issues related to an open design philosophy whilst developing skills in making and digital fabrication.
+
+OVER THE FIRST WEEK OF THE PROJECT! See you in February for other developments!
+
+
+
 
 ## The knowledge through the experience in my opinion is the key to personal growth.
