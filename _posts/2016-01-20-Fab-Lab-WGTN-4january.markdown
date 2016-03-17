@@ -46,7 +46,7 @@ In groups of three, you will investigate the idea of open design and apply what 
 
 The project will be tackled in groups. Fab lab wgtn will provide a short list of open design concept for your group to select from. Your group is required to develop an existing open concept. The Fab Lab will short- list a range of concepts from which you can choose. The Fab Lab has a wide variety of resources to utilise, and we would like to see you explore a number of these in detail. Pick a project that has potential to use 2-3 separate processes to complete it.
 
-### 1st Week Open Design & Digital Fabrication was about:
+### F.2.1. 1st Week Open Design & Digital Fabrication was about:
 
 Introduction to the Paper, introduction the brief, introduction to Fab Lab WGTN.
 
@@ -58,7 +58,7 @@ Introduction of open design Whakapapa
 
 By group research presentations
 
-### F.1.1. Manifesto
+### F.2.2. Manifesto
 
 ### Team Parsnip
 

@@ -100,6 +100,9 @@ Combines scientific research, computer graphics, mathematics, and digital fabric
 
 {% include image.html url="image/gif/laser-cut.gif" description="Laser cut" %}
 
+## 3th Month
+
+
 ### - RGB45c  LED 
 
 {% include image.html url="image/gif/rgb.gif" description="Download" %}
@@ -110,6 +113,7 @@ Combines scientific research, computer graphics, mathematics, and digital fabric
 ### - 3th laser cutter and RGB45c 
 
 {% include image.html url="image/gif/lampaparallelepipedo.gif" description="Lamp dimension" %}
+
 
 
 ### - 3D Printing Ultimakers machine     
